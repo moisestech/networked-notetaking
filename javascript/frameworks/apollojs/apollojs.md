@@ -4,8 +4,8 @@
 
 Features
 
-- **Declarative data fetching:** Write a query and receive data without manually tracking loading states.
-- **Excellent developer experience:** Helpful tooling for TypeScript, ChromeDevTools, and VS Code.
+- **Declarative data fetching:** Write/Receive query data without manually tracking loading states.
+- **Developer experience:** Tooling for TypeScript, ChromeDevTools, and VS Code.
 - **Designed for React**: Latest React Features, such as hooks.
 - **Incrementally adoptable**: Drop Apollo into any JS app.
 - **Universally compatible**: Use any build setup and any GraphQL API.
@@ -15,14 +15,14 @@ Features
 
 `npm add apollo-boost @apollo/react-hooks graphql`
 
-- **apollo-boost**: Package that contains what you need to initialize the Apollo client and also some utilities.
-- **@apollo/react-hooks**: The hooks that are used to do queries and mutations.
-- **graphql**: To parse the GraphQL language strings, we will be using.
+- **apollo-boost**: Initial package containing Apollo client and some utilities.
+- **@apollo/react-hooks**: The hooks used to do queries and mutations.
+- **graphql**: For parsing GraphQL language strings.
 
 #### **React Podcast Comments**
 
 - Rebundling React as a fuller framework.
-- Focused on domain modeling.
+- Focused on [[domain modeling]].
 
 ### [[apollo-caching]]
 
