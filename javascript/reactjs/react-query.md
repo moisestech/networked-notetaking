@@ -1,0 +1,6 @@
+# React Query
+
+[Cached in 60 Minutes](https://platform.ui.dev/courses/1024308/lectures/21244186)\
+by [Tanner Linsley](https://twitter.com/tannerlinsley)
+
+- Mastering async data
