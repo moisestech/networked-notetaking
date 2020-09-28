@@ -3,7 +3,7 @@
 - [[repl-terminal]]
 - [[npm]]
 - [[yarn]]
-- [[callback-concepts]]
+- [[callback-concept]]
 
 - [[event-loop]]
 - [[event-emitter]]
