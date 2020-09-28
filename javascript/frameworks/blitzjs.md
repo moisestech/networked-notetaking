@@ -1,4 +1,6 @@
-# [Blitz JS](https://blitzjs.com/)
+# Blitz JS
+
+[Blitz JS](https://blitzjs.com/)
 
 ### Features
 
