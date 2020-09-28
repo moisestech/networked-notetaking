@@ -1,1 +1,34 @@
 # useEffect
+
+- `useEffect` is **not** a lifecycle hook.
+- `useEffect` is a **mechanism for synchronizing side effects with the state of your app.**
+- When the React team introduced hooks, their goal was to fundamentally **improve the mental model for application side-effects**.
+
+[Ryan Florence](https://twitter.com/ryanflorence/status/1125041041063665666) says:\
+The question is not "when does this effect run?"\
+ the question is "with which state does this effect synchronize with?"
+
+- `useEffect(fn) // all state`
+- `useEffect(fn, []) // no state`
+- `useEffect(fn, [these, states])`
+
+### Potential Bugs
+
+- **eslint-plugin-react-hooks/exhaustive-deps**\
+  - It is wrong to think of `useEffect` in lifecycles.
+  - If `useEffect` callback has dependencies, then you need to make sure that your effect callback is re-run anytime those dependencies change.
+- **giant useEffects**
+
+  - separate logical concerns into individual hooks.
+  - it is much easier to extract this code into a custom hook.
+
+- **needlessly externally defined functions**
+  - The idea of defining a fetch function ourside of the `useEffect` callback.
+    - Because it's external, you have to list it in the dependencies array to avoid stale closures.
+    - You also have to memoize it to avoid infinite loops.
+    - You also have to create a `ref` for our abort controller.
+
+### Blog
+
+- [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/?ck_subscriber_id=641484837) [#Epic React](https://epicreact.dev/podcast/kents-career-path-through-web-development)
+- [Don't Stop the Data Flow in Side Effects](https://overreacted.io/writing-resilient-components/#dont-stop-the-data-flow-in-side-effects) [#Overreacted.IO]()

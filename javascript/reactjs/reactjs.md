@@ -30,6 +30,7 @@
 
 ### **Community**
 
+- [React Blog](https://reactjs.org/blog/all.html/)
 - [Reactiflux Discord](https://www.reactiflux.com/)
 - [React Podcast]()
 - [Party Corgi](https://party-corgi-podcast.simplecast.com/episodes)
