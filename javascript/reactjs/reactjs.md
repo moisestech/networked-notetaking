@@ -22,6 +22,10 @@
 
 - [[react-query]]
 
+### Forms
+
+- [[formikjs]]
+
 # React Core Libs
 
 - [[prop-types]] - PropTypes
@@ -44,6 +48,7 @@
 [react-concepts]: react-concepts/react-concepts "React Concepts"
 [animation-libs]: animation-libs/animation-libs "React Animation Libs"
 [react-query]: react-query "React Query"
+[formikjs]: react-libs/formikjs "Formik JS"
 [prop-types]: proptypes/prop-types "PropTypes"
 [react-router]: router-api/react-router "React Router V6"
 [redux]: redux/redux "Redux"
