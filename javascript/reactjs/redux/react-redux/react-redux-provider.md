@@ -1,1 +1,3 @@
-# [Provider](https://react-redux.js.org/api/provider)
+# Provider
+
+[Provider](https://react-redux.js.org/api/provider)
