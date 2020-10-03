@@ -1,3 +1,3 @@
-# Redux Catch
+# Catch
 
 - Error catcher middleware.

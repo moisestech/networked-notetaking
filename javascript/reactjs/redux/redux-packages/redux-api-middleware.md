@@ -1,3 +1,4 @@
-# [Redux API Middleware](https://github.com/agraboso/redux-api-middleware)
+# API Middleware
 
+- [Redux API Middleware](https://github.com/agraboso/redux-api-middleware)
 - Redux middleware-for-calling an API.

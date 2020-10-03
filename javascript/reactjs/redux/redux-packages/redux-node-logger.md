@@ -1,3 +1,3 @@
-# Redux Node Logger
+# Node Logger
 
 - A Redux Logger for Node Environments.
