@@ -2,24 +2,27 @@
 
 [GraphQL: The Documentary](youtube.com/watch?v=783ccP__No8)
 
-### [[graphql-queries]]
+### Documentation
 
-### [[graphql-mutations]]
+- [[graphql-queries]]
 
-### [[graphql-schemas]]
+- [[graphql-mutations]]
 
-### [[graphql-types]]
+- [[graphql-schemas]]
 
-### [[graphql-validation]]
+- [[graphql-types]]
 
-### [[graphql-execution]]
+- [[graphql-validation]]
 
-### [[graphql-introspection]]
+- [[graphql-execution]]
+
+- [[graphql-introspection]]
 
 ### Courses
 
 - Lynda.com Eve Porcello
 - Downloaded Courses
+- [Fetching data from an API in GraphQL](https://www.youtube.com/watch?v=RDQyAcvmbpM) by [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
 
 ### GraphQL Tools
 
