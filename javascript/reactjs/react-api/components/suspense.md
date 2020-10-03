@@ -4,4 +4,6 @@
 - Anything inside of it doesn't have the data on the code find the nearest boundary and render that instead.
 - Suspense as a component is more cable as a component.
 
-[Suspense JS Conf](https://youtu.be/nLF0n9SACd4) by [Dan Abramov](https://twitter.com/dan_abramov)
+- [Suspense JS Conf](https://youtu.be/nLF0n9SACd4) by [Dan Abramov](https://twitter.com/dan_abramov)
+
+- [First Look at React Suspense for Data Fetching](https://www.youtube.com/watch?v=fTFoBr5LJGE) by [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
