@@ -1,8 +1,12 @@
 # Testing
 
-Testing Javascript with [Keving C. Dodds]()
+### React Docs
 
-- [testingjavascript.com](testingjavascript.com)
+- [Testing Overview](https://reactjs.org/docs/testing.html)
+
+### Course
+
+- [Testing Javascript](testingjavascript.com) with [Keving C. Dodds]()
 
 ### Testing Types
 
