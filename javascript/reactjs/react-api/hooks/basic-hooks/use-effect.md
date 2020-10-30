@@ -1,4 +1,4 @@
-# useEffect
+# useEffect()
 
 - `useEffect` is **not** a lifecycle hook.
 - `useEffect` is a **mechanism for synchronizing side effects with the state of your app.**
@@ -32,3 +32,8 @@ The question is not "when does this effect run?"\
 
 - [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/?ck_subscriber_id=641484837) [#Epic React](https://epicreact.dev/podcast/kents-career-path-through-web-development)
 - [Don't Stop the Data Flow in Side Effects](https://overreacted.io/writing-resilient-components/#dont-stop-the-data-flow-in-side-effects) [#Overreacted.IO]()
+- [React race condition bug](https://dev.to/sag1v/react-race-condition-bug-3o5i)
+
+### Debug
+
+- [React state update on an unmounted component](https://www.debuggr.io/react-update-unmounted-component/)
