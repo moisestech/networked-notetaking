@@ -3,3 +3,8 @@
 Fast, easy and reliable testing for anything that runs in a browser.
 
 ### [Website](https://www.cypress.io/)
+
+## Videos
+
+- [Visual Testing Using Cypress and Applitools](https://www.youtube.com/watch?v=NPnCz-hVQ-s) by Angie Jones and Jason Lensgtorf
+- [End-To-End Testing with Cypress](https://www.youtube.com/watch?v=VW7SFTE9SPI) by Gleb Bahmutov and Jason Lensgtorf
