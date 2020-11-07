@@ -12,3 +12,8 @@
 - hierarchical states
 - concurrent states
 - rallying
+
+## Tutorials
+
+- [Let’s learn state machines](https://www.youtube.com/watch?v=czi24DqUfSA) by David K. Piano and Jason Lengstorf
+- [Build a Cart Powered By State Machines](https://www.youtube.com/watch?v=txD9JOo0Els) by Jason Lengstorf
