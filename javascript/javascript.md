@@ -17,6 +17,10 @@
 
 ### [[js-libs]]
 
+### [[js-design-patterns]]
+
+### [[js-modules]]
+
 ### [[db-service]]
 
 ### [[database]]
@@ -64,6 +68,8 @@
 [mljs]: mljs/mljs "ML for JS"
 [js-concepts]: js-concepts/js-concepts "JS Concepts"
 [js-libs]: js-libs/js-libs "JS Libs"
+[js-design-patterns]: js-design-patterns/js-design-patterns "JS Design Patterns"
+[js-modules]: js-modules/js-modules "JS Modules"
 [db-service]: ../db-service/db-service "DB as a Service"
 [database]: ../database/database "Database"
 [typechecking]: typechecking/typechecking "Typechecking"
