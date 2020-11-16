@@ -12,7 +12,9 @@
 
 ### [[js-compiled]]
 
-### [[js-design-patterns]]
+### [[_js-design-patterns]]
+
+### [[_js-modules]]
 
 ### [[transformations]]
 
@@ -32,8 +34,10 @@
 [closures]: closures "Closures"
 [js-polyfills]: js-polyfills "Polyfills"
 [js-compiled]: js-compiled "Compiled"
-[js-design-patterns]: js-design-patterns/js-design-patterns "JS Design Patterns"
+[_js-design-patterns]: js-design-patterns/_js-design-patterns "JS Design Patterns"
+[_js-modules]: js-modules/_js-modules "JS Modules"
 [transformations]: ../nodejs/webpackjs/transformations "Transformations"
+[this]: this "This"
 [js-fetch]: js-fetch "Fetch"
 [js-inheritance]: js-inheritance "Inheritance"
 [javascript]: ../javascript "Javascript"
