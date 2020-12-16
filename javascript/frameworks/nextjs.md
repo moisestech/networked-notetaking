@@ -10,9 +10,27 @@ Next.js is a free and open source web application framework based on React.js, N
 
 - [Curated list of resources: books, videos, articles](https://github.com/unicodeveloper/awesome-nextjs)
 
-### Tutorial
+### Video Blog
 
-- [Next.js on AWS](https://platform.ui.dev/courses/1024308/lectures/25180088) by Nader Dabit
+- [Keynote – Next.js Conf 2020](https://www.youtube.com/watch?v=1-NzQ9ObsfM) by Vercel
+- [Keynote on Next.js and Serverless future](https://www.youtube.com/watch?v=2porsQ1gLvA) by Guillermo Rauch, React Conferences by GitNation
+
+### Video Tutorial
+
+- [Next.JS, GraphQL and Apollo Portfolio Application](https://www.udemy.com/course/nextjs-and-apollo-portfolio-app-w-react-graphql-node/learn/lecture/18742898#overview) by Eincode by Filip Jerga, Udemy
+- [Next.js on AWS](https://platform.ui.dev/courses/1024308/lectures/25180088) by Nader Dabit, UI.Dev
+- [Live Coding a Full Stack Serverless App with Next.js, Amazon Aurora Serverless, CDK, & TypeScript](https://www.youtube.com/watch?v=pXd9BCwpjhA) by Nader Dabit
+- [Nx + Next.js = ❤️](https://www.youtube.com/watch?v=chBOFzpGpyo) by Adam L Barrett, React Conferences by GitNation
+- [Getting Lean with the Next.js Image Component](https://www.youtube.com/watch?v=bNDCFBIiAe8) by Sam Selikoff
+- [Learn Next.js in One Video - Fundamentals of Next.js](https://www.youtube.com/watch?v=tt3PUvhOVzo) by codedamn
+
+### Static Site Generation
+
+- [Nextjs Tutorial #1 - SSR Basics](https://www.youtube.com/watch?v=LbmW2OKIOWU) by Waldev
+
+### Server Rendering
+
+- [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U) by Traversy Media
 
 ### Blogs
 
