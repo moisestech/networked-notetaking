@@ -1,5 +1,9 @@
 # customHook
 
+## Blogs
+
+- [useEncapsulation](https://kyleshevlin.com/use-encapsulation?ck_subscriber_id=967136106)
+
 ---
 
 #### **From** [[_advanced-react-hooks]] / \_hooks
